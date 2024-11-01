@@ -1,0 +1,567 @@
+# Copyright (C) 2024 UpsellWP
+# This file is distributed under the GPL v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: UpsellWP: Side Cart 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/upsellwp-mini-cart\n"
+"Last-Translator: Flycart <support@flycart.org>\n"
+"Language-Team: Flycart <support@flycart.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-12T04:40:00+00:00\n"
+"PO-Revision-Date:  \n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: upsellwp-mini-cart\n"
+
+#. Plugin Name of the plugin
+#: upsellwp-mini-cart.php
+msgid "UpsellWP: Side Cart"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: upsellwp-mini-cart.php
+msgid "https://upsellwp.com/add-ons/mini-cart"
+msgstr ""
+
+#. Description of the plugin
+#: upsellwp-mini-cart.php
+msgid "Sliding WooCommerce side cart."
+msgstr ""
+
+#. Author of the plugin
+#: upsellwp-mini-cart.php
+msgid "UpsellWP"
+msgstr ""
+
+#. Author URI of the plugin
+#: upsellwp-mini-cart.php
+msgid "https://upsellwp.com"
+msgstr ""
+
+#: app/Controllers/Ajax.php:62
+#: app/Controllers/Ajax.php:82
+msgid "Security check failed!"
+msgstr ""
+
+#: app/Controllers/Ajax.php:70
+#: app/Controllers/Ajax.php:90
+msgid "Method not exists."
+msgstr ""
+
+#: app/Controllers/Ajax.php:138
+#: app/Controllers/Assets.php:79
+msgid "No more quantities are available in stock."
+msgstr ""
+
+#: app/Controllers/Ajax.php:216
+msgid "Unable to remove coupon."
+msgstr ""
+
+#: app/Controllers/Assets.php:43
+msgid "Settings updated"
+msgstr ""
+
+#: app/Controllers/Assets.php:44
+#: app/Views/Admin.php:1420
+msgid "Delete"
+msgstr ""
+
+#: app/Controllers/Assets.php:45
+msgid "Are you sure, you want to activate this theme?"
+msgstr ""
+
+#: app/Controllers/Assets.php:46
+msgid "Upon activation, all locally made style changes are permanently lost."
+msgstr ""
+
+#: app/Controllers/Assets.php:80
+msgid "Something went wrong."
+msgstr ""
+
+#: app/Controllers/Assets.php:81
+#: templates/style-1/contents/offers.php:30
+msgid "No offers found."
+msgstr ""
+
+#: app/Controllers/Compatibility.php:48
+msgid "Side Cart - Offers section"
+msgstr ""
+
+#: app/Controllers/Page.php:25
+#: app/Controllers/Page.php:26
+#: app/Views/Admin.php:35
+msgid "Side Cart"
+msgstr ""
+
+#. translators: %s: amount
+#: app/Handlers/Shipping.php:58
+msgid "Spend an extra %s to get free shipping!"
+msgstr ""
+
+#: app/Handlers/Shipping.php:59
+msgid "Great news! Now you are eligible for free shipping."
+msgstr ""
+
+#: app/Helpers/Plugin.php:28
+msgid "UpsellWP: Side Cart requires PHP version 7.2 or above."
+msgstr ""
+
+#: app/Helpers/Plugin.php:35
+msgid "UpsellWP: Side Cart requires WordPress version 5.3 or above."
+msgstr ""
+
+#: app/Helpers/Plugin.php:42
+msgid "UpsellWP: Side Cart requires WooCommerce is installed and activate."
+msgstr ""
+
+#: app/Helpers/Plugin.php:49
+msgid "UpsellWP: Side Cart requires WooCommerce version 4.4 or above."
+msgstr ""
+
+#: app/Helpers/Template.php:148
+msgid "Theme 1"
+msgstr ""
+
+#: app/Helpers/Template.php:152
+msgid "Theme 2"
+msgstr ""
+
+#: app/Helpers/Template.php:156
+msgid "Theme 3"
+msgstr ""
+
+#: app/Helpers/Template.php:160
+msgid "Theme 4"
+msgstr ""
+
+#: app/Helpers/Template.php:443
+msgid "Offers"
+msgstr ""
+
+#: app/Helpers/Template.php:570
+#: templates/style-1/components/totals.php:68
+msgid "Cart"
+msgstr ""
+
+#: app/Views/Admin.php:23
+msgid "Security verification failed!"
+msgstr ""
+
+#: app/Views/Admin.php:24
+msgid "Changes saved successfully."
+msgstr ""
+
+#: app/Views/Admin.php:38
+msgid "by UpsellWP"
+msgstr ""
+
+#: app/Views/Admin.php:49
+msgid "Customization"
+msgstr ""
+
+#: app/Views/Admin.php:56
+msgid "Theme"
+msgstr ""
+
+#: app/Views/Admin.php:63
+msgid "Advanced"
+msgstr ""
+
+#: app/Views/Admin.php:75
+msgid "Save"
+msgstr ""
+
+#: app/Views/Admin.php:93
+#: app/Views/Admin.php:518
+msgid "Widget"
+msgstr ""
+
+#: app/Views/Admin.php:98
+msgid "Show widget"
+msgstr ""
+
+#: app/Views/Admin.php:115
+#: app/Views/Admin.php:169
+msgid "Position"
+msgstr ""
+
+#: app/Views/Admin.php:123
+#: app/Views/Admin.php:177
+msgid "Left"
+msgstr ""
+
+#: app/Views/Admin.php:127
+#: app/Views/Admin.php:181
+msgid "Right"
+msgstr ""
+
+#: app/Views/Admin.php:137
+msgid "Horizontally"
+msgstr ""
+
+#: app/Views/Admin.php:151
+msgid "Vertically"
+msgstr ""
+
+#: app/Views/Admin.php:164
+#: app/Views/Admin.php:570
+msgid "Slider"
+msgstr ""
+
+#: app/Views/Admin.php:190
+msgid "Show after adding product"
+msgstr ""
+
+#: app/Views/Admin.php:208
+#: app/Views/Admin.php:805
+msgid "Header"
+msgstr ""
+
+#: app/Views/Admin.php:213
+msgid "Title"
+msgstr ""
+
+#: app/Views/Admin.php:227
+#: app/Views/Admin.php:858
+msgid "Items"
+msgstr ""
+
+#: app/Views/Admin.php:232
+msgid "Show remove option"
+msgstr ""
+
+#: app/Views/Admin.php:248
+msgid "Product price"
+msgstr ""
+
+#: app/Views/Admin.php:256
+msgid "Show item subtotal"
+msgstr ""
+
+#: app/Views/Admin.php:260
+msgid "Show product price"
+msgstr ""
+
+#: app/Views/Admin.php:268
+#: app/Views/Admin.php:935
+msgid "Coupon"
+msgstr ""
+
+#: app/Views/Admin.php:273
+msgid "Show coupon"
+msgstr ""
+
+#: app/Views/Admin.php:290
+#: app/Views/Admin.php:964
+msgid "Buttons"
+msgstr ""
+
+#: app/Views/Admin.php:295
+msgid "Checkout text"
+msgstr ""
+
+#: app/Views/Admin.php:312
+#: app/Views/Admin.php:410
+msgid "Show total"
+msgstr ""
+
+#: app/Views/Admin.php:331
+msgid "Show cart button"
+msgstr ""
+
+#: app/Views/Admin.php:353
+msgid "Cart text"
+msgstr ""
+
+#: app/Views/Admin.php:370
+#: app/Views/Admin.php:1041
+msgid "Cart totals"
+msgstr ""
+
+#: app/Views/Admin.php:375
+msgid "Show subtotal"
+msgstr ""
+
+#: app/Views/Admin.php:393
+msgid "Show discount"
+msgstr ""
+
+#: app/Views/Admin.php:433
+msgid "Active theme: "
+msgstr ""
+
+#: app/Views/Admin.php:444
+msgid "Reset"
+msgstr ""
+
+#: app/Views/Admin.php:446
+#: app/Views/Admin.php:448
+msgid "Edit"
+msgstr ""
+
+#: app/Views/Admin.php:451
+#: app/Views/Admin.php:1383
+msgid "Close"
+msgstr ""
+
+#: app/Views/Admin.php:457
+msgid "Available themes"
+msgstr ""
+
+#: app/Views/Admin.php:487
+msgid "Activate"
+msgstr ""
+
+#: app/Views/Admin.php:490
+msgid "Preview"
+msgstr ""
+
+#: app/Views/Admin.php:523
+#: app/Views/Admin.php:617
+#: app/Views/Admin.php:888
+#: app/Views/Admin.php:940
+#: app/Views/Admin.php:994
+#: app/Views/Admin.php:1071
+#: app/Views/Admin.php:1123
+#: app/Views/Admin.php:1173
+#: app/Views/Admin.php:1227
+#: app/Views/Admin.php:1306
+#: app/Views/Admin.php:1475
+msgid "Background color"
+msgstr ""
+
+#: app/Views/Admin.php:547
+#: app/Views/Admin.php:835
+#: app/Views/Admin.php:912
+#: app/Views/Admin.php:1018
+#: app/Views/Admin.php:1095
+#: app/Views/Admin.php:1147
+#: app/Views/Admin.php:1197
+#: app/Views/Admin.php:1251
+#: app/Views/Admin.php:1452
+msgid "Text color"
+msgstr ""
+
+#: app/Views/Admin.php:575
+msgid "Width"
+msgstr ""
+
+#: app/Views/Admin.php:593
+msgid "Background type"
+msgstr ""
+
+#: app/Views/Admin.php:602
+msgid "Gradient"
+msgstr ""
+
+#: app/Views/Admin.php:606
+msgid "Solid"
+msgstr ""
+
+#: app/Views/Admin.php:644
+msgid "Gradient degree"
+msgstr ""
+
+#: app/Views/Admin.php:664
+msgid "Gradient color 1"
+msgstr ""
+
+#: app/Views/Admin.php:687
+msgid "Gradient color 2"
+msgstr ""
+
+#: app/Views/Admin.php:711
+msgid "Border width"
+msgstr ""
+
+#: app/Views/Admin.php:721
+msgid "None"
+msgstr ""
+
+#: app/Views/Admin.php:725
+msgid "Thin"
+msgstr ""
+
+#: app/Views/Admin.php:729
+msgid "Medium"
+msgstr ""
+
+#: app/Views/Admin.php:737
+msgid "Border color"
+msgstr ""
+
+#: app/Views/Admin.php:762
+msgid "Border radius"
+msgstr ""
+
+#: app/Views/Admin.php:779
+msgid "Component color"
+msgstr ""
+
+#: app/Views/Admin.php:810
+#: app/Views/Admin.php:863
+#: app/Views/Admin.php:969
+#: app/Views/Admin.php:1046
+#: app/Views/Admin.php:1281
+msgid "Font size"
+msgstr ""
+
+#: app/Views/Admin.php:817
+#: app/Views/Admin.php:870
+#: app/Views/Admin.php:976
+#: app/Views/Admin.php:1053
+#: app/Views/Admin.php:1288
+msgid "Default"
+msgstr ""
+
+#: app/Views/Admin.php:820
+#: app/Views/Admin.php:876
+#: app/Views/Admin.php:982
+#: app/Views/Admin.php:1059
+#: app/Views/Admin.php:1294
+msgid "18px"
+msgstr ""
+
+#: app/Views/Admin.php:823
+msgid "28px"
+msgstr ""
+
+#: app/Views/Admin.php:826
+msgid "32px"
+msgstr ""
+
+#: app/Views/Admin.php:873
+#: app/Views/Admin.php:979
+#: app/Views/Admin.php:1056
+msgid "14px"
+msgstr ""
+
+#: app/Views/Admin.php:879
+#: app/Views/Admin.php:985
+#: app/Views/Admin.php:1062
+#: app/Views/Admin.php:1297
+msgid "24px"
+msgstr ""
+
+#: app/Views/Admin.php:1118
+#: app/Views/Admin.php:1575
+msgid "Recommendations"
+msgstr ""
+
+#: app/Views/Admin.php:1168
+msgid "Recommended items"
+msgstr ""
+
+#: app/Views/Admin.php:1222
+#: app/Views/Admin.php:1533
+msgid "Goals"
+msgstr ""
+
+#: app/Views/Admin.php:1276
+msgid "Tabs"
+msgstr ""
+
+#: app/Views/Admin.php:1291
+msgid "12px"
+msgstr ""
+
+#: app/Views/Admin.php:1331
+msgid "color"
+msgstr ""
+
+#: app/Views/Admin.php:1361
+msgid "Banner"
+msgstr ""
+
+#: app/Views/Admin.php:1365
+msgid "Enable banner section"
+msgstr ""
+
+#: app/Views/Admin.php:1380
+#: app/Views/Admin.php:1525
+#: templates/style-1/components/recommendations.php:46
+#: templates/style-1/components/recommendations.php:53
+msgid "Add"
+msgstr ""
+
+#: app/Views/Admin.php:1394
+msgid "Content"
+msgstr ""
+
+#: app/Views/Admin.php:1395
+msgid "Action"
+msgstr ""
+
+#: app/Views/Admin.php:1538
+msgid "Enable goals section"
+msgstr ""
+
+#: app/Views/Admin.php:1556
+msgid "Free shipping"
+msgstr ""
+
+#: app/Views/Admin.php:1580
+msgid "Enable recommendation section"
+msgstr ""
+
+#. translators: %s: title
+#: app/Views/Admin.php:1606
+msgid "Enable %s section"
+msgstr ""
+
+#: app/Views/Admin.php:1627
+msgid "Install UpsellWP"
+msgstr ""
+
+#: app/Views/Admin.php:1653
+msgid "Activate theme"
+msgstr ""
+
+#: app/Views/Admin.php:1665
+msgid "Yes"
+msgstr ""
+
+#: app/Views/Admin.php:1668
+msgid "No"
+msgstr ""
+
+#: templates/style-1/components/coupon.php:28
+msgid "Coupon code"
+msgstr ""
+
+#: templates/style-1/components/coupon.php:31
+msgid "Apply"
+msgstr ""
+
+#: templates/style-1/components/header.php:25
+msgid "My Cart"
+msgstr ""
+
+#: templates/style-1/components/no-items.php:21
+msgid "Your cart is empty."
+msgstr ""
+
+#: templates/style-1/components/no-items.php:27
+msgid "Return to shop"
+msgstr ""
+
+#: templates/style-1/components/recommendations.php:25
+msgid "You may also like..."
+msgstr ""
+
+#: templates/style-1/components/totals.php:33
+msgid "Subtotal"
+msgstr ""
+
+#: templates/style-1/components/totals.php:43
+msgid "Discount"
+msgstr ""
+
+#: templates/style-1/components/totals.php:53
+msgid "Total"
+msgstr ""
+
+#: templates/style-1/components/totals.php:80
+msgid "Checkout"
+msgstr ""
